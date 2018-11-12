@@ -1,0 +1,1 @@
+﻿Clear-Content c:\'Program Files\New Relic\platform_installer_win32\plugins\com.newrelic.platform.microsoft.sqlserver\newrelic_mssql_plugin'\com.newrelic.platform.microsoft.sqlserver-wrap.out.log

@@ -1,0 +1,1 @@
+Write-EventLog PSLogging -Source Test -eventID 1000 -Message "I am the first entry"

@@ -1,0 +1,1 @@
+clear-content filename.ext

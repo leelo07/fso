@@ -1,0 +1,1 @@
+winrm s winrm/config/client '@{TrustedHosts="DFWITCVCOM01W"}'
